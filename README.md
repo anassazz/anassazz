@@ -18,7 +18,14 @@ Je suis Anas Azz, un passionné de développement et de création numérique. J'
    <img aling="center" alt ="js" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img aling="center" alt ="js" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
    <img aling="center" alt ="js" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+   <img aling="center" alt ="js" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+   
+   ##
    <img aling="center" alt ="js" height="30" width="70" src= "https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+   <img aling="center" alt ="js" height="30" width="70" src= "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+   <img aling="center" alt ="js" height="30" width="70" src= "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+   <img aling="center" alt ="js" height="30" width="70" src= "https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+   <img aling="center" alt ="js" height="30" width="70" src= "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
    
 </div>
