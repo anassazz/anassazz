@@ -18,6 +18,7 @@ Je suis Anas Azz, un passionné de développement et de création numérique. J'
    <img aling="center" alt ="js" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img aling="center" alt ="js" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
    <img aling="center" alt ="js" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+   <img aling="center" alt ="js" height="30" width="70" src= "https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 
    
 </div>
