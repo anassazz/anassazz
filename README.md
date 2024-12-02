@@ -5,7 +5,7 @@ Je suis Anas Azz, un passionné de développement et de création numérique. J'
 
 # 💻 Tech Stack:
 
-##
+
 <div>
    <img aling="center" alt ="js" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
    <img aling="center" alt ="js" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
@@ -26,7 +26,13 @@ Je suis Anas Azz, un passionné de développement et de création numérique. J'
    <img aling="center" alt ="js" height="30" width="70" src= "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
    
 </div>
+
 ##
+<div>
+   <a href=""  target="_black"><img src ="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" />
+</div>
+
+
 
 
 
