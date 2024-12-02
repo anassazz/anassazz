@@ -29,7 +29,7 @@ Je suis Anas Azz, un passionné de développement et de création numérique. J'
 
 ##
 <div>
-   <a href="HTTPS://wa.me/212644249029"  target="_black"><img src ="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" />
+   <a href="HTTPS://wa.me/+212644249029"  target="_black"><img src ="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" />
       
 </div>
 
