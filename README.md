@@ -32,7 +32,7 @@ Je suis Anas Azz, un passionné de développement et de création numérique. J'
    <a href="HTTPS://wa.me/+212644249029"  target="_black"><img src ="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" target="_black" ></a>
    <a href="mailto:anass.azz2030@gmail.com"  target="_black"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_black"></a>
    <a href=""  target="_black"><img src ="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_black"></a>
-   <a href=""  target="_black"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_black"></a>
+   <a href="https://www.linkedin.com/in/anass-azz-8b784a33b/"  target="_black"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_black"></a>
       
 </div>
 
