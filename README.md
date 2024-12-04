@@ -29,10 +29,10 @@ Je suis Anas Azz, un passionné de développement et de création numérique. J'
 
 ##
 <div>
-   <a href="HTTPS://wa.me/+212644249029"  target="_black"><img src ="https://img.shields.io/badge/WhatsApp-eeeee4?style=for-the-badge&logo=WhatsApp&logoColor=red" target="_black" ></a>
-   <a href="mailto:anass.azz2030@gmail.com"  target="_black"><img src ="https://img.shields.io/badge/Gmail-eeeee4?style=for-the-badge&logo=gmail&logoColor=red" target="_black"></a>
-   <a href=""  target="_black"><img src ="https://img.shields.io/badge/Discord-eeeee4?style=for-the-badge&logo=discord&logoColor=red" target="_black"></a>
-   <a href="https://www.linkedin.com/in/anass-azz-8b784a33b/"  target="_black"><img src ="https://img.shields.io/badge/LinkedIn-eeeee4?style=for-the-badge&logo=linkedin&logoColor=red" target="_black"></a>
+   <a href="HTTPS://wa.me/+212644249029"  target="_black"><img src ="https://img.shields.io/badge/WhatsApp-2300C4CC?style=for-the-badge&logo=WhatsApp&logoColor=red" target="_black" ></a>
+   <a href="mailto:anass.azz2030@gmail.com"  target="_black"><img src ="https://img.shields.io/badge/Gmail-2300C4CC?style=for-the-badge&logo=gmail&logoColor=red" target="_black"></a>
+   <a href=""  target="_black"><img src ="https://img.shields.io/badge/Discord-2300C4CC?style=for-the-badge&logo=discord&logoColor=red" target="_black"></a>
+   <a href="https://www.linkedin.com/in/anass-azz-8b784a33b/"  target="_black"><img src ="https://img.shields.io/badge/LinkedIn-2300C4CC?style=for-the-badge&logo=linkedin&logoColor=red" target="_black"></a>
       
 </div>
 
